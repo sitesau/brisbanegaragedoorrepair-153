@@ -1,0 +1,22 @@
+{
+  "wheel_id": 640,
+  "structure": "umbrella",
+  "slug": "brisbanegaragedoorrepair-153",
+  "project": "garage-door-repairs-brisbane-budget-tips-3a029f16c73a1945461895",
+  "parent_t1_ref": "brisbanegaragedoorrepair-010",
+  "node_role": "buffer",
+  "money_target": "brisbanegaragedoorrepair.au",
+  "primary_kw": "garage door repairs brisbane budget tips",
+  "intended_url": "https://sitesau.github.io/brisbanegaragedoorrepair-153/",
+  "tier": "T2",
+  "writeback_nonce": "0fe39d01ead3b02a",
+  "links": [
+    {
+      "target_url": "https://sites-e470-1.web.app/garage-door-repairs-brisbane-brisbanegaragedoorrepair-010/",
+      "anchor": "garage door repairs brisbane explained",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
